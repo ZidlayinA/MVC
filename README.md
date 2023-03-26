@@ -6,7 +6,7 @@ Saber Hacer: CRUD en MVC
 
 SABER HACER
 
-Nombre del alumno: Alejandra Carolina Martíne Corral
+Nombre del alumno: Zidlayin Guadalupe Alvarado Sánchez
 
 El proceso de elaboración representa uno de los procesos más importantes y a la vez más críticos del ciclo de vida del desarrollo de sistemas, debido a que esta etapa es 
 dónde se define y especifica el diseño de alto nivel del sistema, el cual fundamenta los componentes, estructura, organización y relaciones entre dichos componentes, mismos 
